@@ -5,7 +5,8 @@
   "scripts": {
     "build": "tsc",
     "test-good": "jest --watch --config=jest-good.config.ts",
-    "test-bad": "jest --watch --config=jest-bad.config.ts"
+    "test-bad": "jest --watch --config=jest-bad.config.ts",
+    "test": "jest --watch --config=jest.config.ts"
   },
   "keywords": [],
   "author": "",
